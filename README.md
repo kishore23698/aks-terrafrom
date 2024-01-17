@@ -1,2 +1,2 @@
-# terraform-eks
-Terraform code for AWS EKS
+# terraform-aks
+Terraform code for AWS AKS
